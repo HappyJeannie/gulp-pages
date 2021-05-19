@@ -1,10 +1,17 @@
 {
   "name": "summer-gulp-pages",
   "version": "1.0.0",
+  "description": "gulp pages",
+  "keywords": ["gulp", "static", "gulp-pages-demo"],
+  "author": "summer",
   "main": "lib/index.js",
   "bin": "bin/index.js",
   "files": ["lib", "bin"],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HappyJeannie/gulp-pages.git"
+  },
   "dependencies": {
     "@babel/core": "^7.14.2",
     "@babel/preset-env": "^7.14.2",
