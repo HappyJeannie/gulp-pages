@@ -1,5 +1,5 @@
 {
-  "name": "gulp-pages",
+  "name": "summer-gulp-pages",
   "version": "1.0.0",
   "main": "lib/index.js",
   "bin": "bin/index.js",
